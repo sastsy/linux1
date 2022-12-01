@@ -9,3 +9,4 @@ esac
 done
 curl "wttr.in/$coord1,$coord2"
 
+#59.9386,30.3141
